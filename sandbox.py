@@ -21,3 +21,5 @@ for x in lstTestList:
     strPrintString = strPrintString + str(x) + ", "
 
 print(strPrintString)
+
+print("This version should make its way into GitHub")
